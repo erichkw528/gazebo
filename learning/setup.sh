@@ -1,1 +1,0 @@
-export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/michael/Desktop/projects/roar-gokart-ws/src/simulation/simulation/gazebo/learning
